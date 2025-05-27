@@ -40,7 +40,7 @@ In this project, we have deployed a multi-node Apache Spark cluster to solve rea
   
     ssh worker1
 
-6. **Apache Spark Cluster Setup :- **  We have created spark-env.sh from spark-env.sh.template and workers from workers.template.
+6. **Apache Spark Cluster Setup :-**  We have created spark-env.sh from spark-env.sh.template and workers from workers.template.
 
 7. We had started the cluster using this command : start-worker.sh spark://master:7077
 
